@@ -19,7 +19,10 @@ Some of its features and design goals include:
 Getting Started
 ===========
 
-View the GitHub wiki for an overview of MassiveNet's core concepts, then check out the examples.
+View the GitHub wiki for an overview of MassiveNet's core concepts, then check out the examples.  
+  
+To get up and running quickly, grab the latest unitypackage from the release page:  
+https://github.com/jakevn/MassiveNet/releases
 
 Contribution
 ===========
