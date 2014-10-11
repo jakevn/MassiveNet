@@ -50,7 +50,6 @@
     <Compile Include="NetLog.cs" />
     <Compile Include="NetMath.cs" />
     <Compile Include="NetMessage.cs" />
-    <Compile Include="NetPeerRing.cs" />
     <Compile Include="NetRequest.cs" />
     <Compile Include="NetSerializer.cs" />
     <Compile Include="NetSocketEvents.cs" />
