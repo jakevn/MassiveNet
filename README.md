@@ -7,14 +7,14 @@ MassiveNet will be somewhat familiar to those who have used Unity's built-in net
 
 Some of its features and design goals include:
 
-  Actor-like messaging and synchronization via NetViews.
-  Easy RPC definition using the [NetRPC] attribute.
-  Automatic network LOD/culling for NetViews, a crucial feature for large CCU games.
-  Build large, open worlds with support for seamless client/NetView movement from server to server.
-  Network instantiation of NetViews through tagged prefabs. (@Owner, @Proxy, @Peer, @Creator)
-  Out-of-the-box serialization for common C# and Unity struct types.
-  Supports serialization of custom types via delegate registration.
-  Incremental synchronization of NetViews to avoid resource spiking.
+  Actor-like messaging and synchronization via NetViews.  
+  Easy RPC definition using the [NetRPC] attribute.  
+  Automatic network LOD/culling for NetViews, a crucial feature for large CCU games.  
+  Build large, open worlds with support for seamless client/NetView movement from server to server.  
+  Network instantiation of NetViews through tagged prefabs. (@Owner, @Proxy, @Peer, @Creator)  
+  Out-of-the-box serialization for common C# and Unity struct types.  
+  Supports serialization of custom types via delegate registration.  
+  Incremental synchronization of NetViews to avoid resource spiking.  
 
 Getting Started
 ===========
