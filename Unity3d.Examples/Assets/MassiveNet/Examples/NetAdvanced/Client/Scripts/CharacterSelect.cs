@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿// // MIT License (MIT) - Copyright (c) 2014 jakevn - Please see included LICENSE file
+using System.Linq;
 using MassiveNet;
 using UnityEngine;
 

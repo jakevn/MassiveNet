@@ -1,4 +1,5 @@
-﻿namespace MassiveNet {
+﻿// // MIT License (MIT) - Copyright (c) 2014 jakevn - Please see included LICENSE file
+namespace MassiveNet {
 
     internal class NetLog {
         

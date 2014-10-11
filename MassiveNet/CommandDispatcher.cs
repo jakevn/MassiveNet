@@ -1,4 +1,5 @@
-﻿using System;
+﻿// // MIT License (MIT) - Copyright (c) 2014 jakevn - Please see included LICENSE file
+using System;
 using System.Collections.Generic;
 
 namespace MassiveNet {

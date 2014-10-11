@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿// // MIT License (MIT) - Copyright (c) 2014 jakevn - Please see included LICENSE file
+using UnityEngine;
 
 namespace Massive.Examples.NetAdvanced {
 

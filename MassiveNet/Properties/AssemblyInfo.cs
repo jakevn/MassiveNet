@@ -1,4 +1,5 @@
-﻿using System.Reflection;
+﻿// // MIT License (MIT) - Copyright (c) 2014 jakevn - Please see included LICENSE file
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 

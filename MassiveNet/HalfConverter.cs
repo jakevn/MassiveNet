@@ -1,5 +1,4 @@
-﻿// Lookup-based algorithm: “Fast Half Float Conversions” by Jeroen van der Zijp - November 2008
-
+﻿// // MIT License (MIT) - Copyright (c) 2014 jakevn - Please see included LICENSE file
 using System.Runtime.InteropServices;
 
 namespace MassiveNet {

@@ -1,4 +1,5 @@
-﻿using MassiveNet;
+﻿// // MIT License (MIT) - Copyright (c) 2014 jakevn - Please see included LICENSE file
+using MassiveNet;
 using UnityEngine;
 
 public class ChatServer : MonoBehaviour {

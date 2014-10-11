@@ -1,5 +1,4 @@
-﻿// Copyright 2014 - Inhumane Software - legal@inhumanesoftware.com
-
+﻿// // MIT License (MIT) - Copyright (c) 2014 jakevn - Please see included LICENSE file
 namespace MassiveNet {
 
     /// <summary> Handles (de)serialization of sent and received unreliable messages. </summary>

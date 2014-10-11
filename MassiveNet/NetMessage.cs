@@ -1,5 +1,4 @@
-﻿// Copyright 2014 - Inhumane Software - legal@inhumanesoftware.com
-
+﻿// // MIT License (MIT) - Copyright (c) 2014 jakevn - Please see included LICENSE file
 using System;
 using System.Collections.Generic;
 

@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿// // MIT License (MIT) - Copyright (c) 2014 jakevn - Please see included LICENSE file
+using System.Collections.Generic;
 using System.Net;
 using UnityEngine;
 
