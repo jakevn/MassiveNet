@@ -1,0 +1,15 @@
+*.pdb
+*.bin
+Library
+ProjectSettings
+obj
+AssetStoreTools
+UnityVS
+bin
+/Unity3d.Examples/Assets/UnityVS.meta
+/Unity3d.Examples/*.sln
+/Unity3d.Examples/*.csproj
+/Unity3d.Examples/*.unityproj
+*.suo
+/Unity3d.Examples/Assets/AssetStoreTools.meta
+*.DotSettings
