@@ -178,8 +178,10 @@ namespace MassiveNet {
 
         internal void WriteUShort(ushort value, int bits) {
             if (bits <= 8) InternalWriteByte((byte)(value & 0xFF), bits);
-            InternalWriteByte((byte)(value & 0xFF), 8);
-            InternalWriteByte((byte)(value >> 8), bits - 8);
+            else {
+                InternalWriteByte((byte)(value & 0xFF), 8);
+                InternalWriteByte((byte)(value >> 8), bits - 8);
+            }
         }
 
         internal ushort ReadUShort(int bits) {
